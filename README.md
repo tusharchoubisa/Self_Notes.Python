@@ -107,10 +107,6 @@ My long-term goal is to become skilled in **Cloud Computing & DevOps**, with Pyt
 
 ### 📈 Progress
 
-**Python Journey Started:** October 5, 2026
-
-**Current Status:** 🟢 Learning
-
 **Learning Environment:** Anaconda + Jupyter Notebook
 
 ---
